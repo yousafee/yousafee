@@ -2,7 +2,7 @@
 
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fredoka&size=30&duration=3000&pause=300&center=true&width=435&lines=Jangan+lupa+.+.+.;Ngopi+dulu+bang+!+!;(%C2%B4%E2%80%A2+%CF%89+%E2%80%A2%60)%EF%BE%89" alt="Typing SVG" /></h1>
 
-<img align="right" width="150" src="https://cdn.discordapp.com/attachments/1086169289242976268/1376148261202563092/1343164363665834035.gif?ex=68344571&is=6832f3f1&hm=f1eaea5d5b997c34d24700c6d1ea596db3233c33378c6b2ed6a560be5f6f3dfd&">
+<img align="right" width="120" src="https://cdn.discordapp.com/attachments/1086169289242976268/1376148261202563092/1343164363665834035.gif?ex=68344571&is=6832f3f1&hm=f1eaea5d5b997c34d24700c6d1ea596db3233c33378c6b2ed6a560be5f6f3dfd&">
 
 𓏵𓏵𓏵𓏵 INTRODUCTION  𓏵𓏵𓏵𓏵
  - <img src="https://cdn.discordapp.com/attachments/1086169289242976268/1376139791292305418/Arrow.gif?ex=68343d8d&is=6832ec0d&hm=3a45f09ba126c5800b6a8b71452afaf5abaf5c16e616e9545846d07becfe48e3&" width="30"/> I'm a `Beginner`
