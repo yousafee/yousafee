@@ -2,6 +2,10 @@
 
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fredoka&size=30&duration=3000&pause=300&center=true&width=435&lines=Jangan+lupa+.+.+.;Ngopi+dulu+bang+!+!;(%C2%B4%E2%80%A2+%CF%89+%E2%80%A2%60)%EF%BE%89" alt="Typing SVG" /></h1>
 
+
+
+
+
 <img align="right" width="120" src="https://cdn.discordapp.com/attachments/1086169289242976268/1376148261202563092/1343164363665834035.gif?ex=68344571&is=6832f3f1&hm=f1eaea5d5b997c34d24700c6d1ea596db3233c33378c6b2ed6a560be5f6f3dfd&">
 
 𓏵𓏵𓏵𓏵 INTRODUCTION  𓏵𓏵𓏵𓏵
