@@ -9,10 +9,10 @@
 
  𓏵  <img src="https://cdn.discordapp.com/emojis/1289848030744412211.gif?size=48&name=z_skillissue" width="30"/> `Dont ask me anything`  𓏵
 
-<hr/>
+<img align="right" width="120" src="https://cdn.discordapp.com/attachments/1086169289242976268/1376148261202563092/1343164363665834035.gif?ex=68344571&is=6832f3f1&hm=f1eaea5d5b997c34d24700c6d1ea596db3233c33378c6b2ed6a560be5f6f3dfd&">
 <p align="left">
 
-<img align="right" width="120" src="https://cdn.discordapp.com/attachments/1086169289242976268/1376148261202563092/1343164363665834035.gif?ex=68344571&is=6832f3f1&hm=f1eaea5d5b997c34d24700c6d1ea596db3233c33378c6b2ed6a560be5f6f3dfd&">
+</hr>
 </p>
 
 <div>
