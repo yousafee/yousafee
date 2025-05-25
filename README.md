@@ -15,7 +15,7 @@
 </p>
 
 <div>
-<h3 align="center">•『♡』• My Skills •『♡』•</h3>
+<h3 align="center">•『𓏵』• My Skills •『𓏵』•</h3>
 
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></div>
@@ -24,7 +24,7 @@
 </div>
 </div>
 
-<h3 align="center">•『♡』• My Goals •『♡』•</h3>
+<h3 align="center">•『𓏵』• My Goals •『𓏵』•</h3>
 
 <div align="center"><a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,threejs,firebase,cpp,unity,unreal"/>
