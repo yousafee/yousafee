@@ -5,20 +5,19 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/yousafee/yousafee/blob/main/GIF_20250525_170041_665.gif?raw=true" width="150" />
-    </td>
-    <td>
 
 <pre>
 
 ╭────── INTRODUCTION  ──────╮
-- <img src="https://cdn.discordapp.com/attachments/1086169289242976268/1376139791292305418/Arrow.gif?ex=68343d8d&is=6832ec0d&hm=3a45f09ba126c5800b6a8b71452afaf5abaf5c16e616e9545846d07becfe48e3&" width="30"/> I'm a `Beginner`
-- <img src="https://cdn.discordapp.com/attachments/1086169289242976268/1376139791292305418/Arrow.gif?ex=68343d8d&is=6832ec0d&hm=3a45f09ba126c5800b6a8b71452afaf5abaf5c16e616e9545846d07becfe48e3&" width="30"/> First time learn on `2024`
-- <img src="https://cdn.discordapp.com/attachments/1086169289242976268/1376139791292305418/Arrow.gif?ex=68343d8d&is=6832ec0d&hm=3a45f09ba126c5800b6a8b71452afaf5abaf5c16e616e9545846d07becfe48e3&" width="28"/> Fullstack dev `Yes`
-- <img src="https://cdn.discordapp.com/emojis/1289848030744412211.gif?size=48&name=z_skillissue" width="30"/> `Dont ask me anything`
+ <img src="https://cdn.discordapp.com/attachments/1086169289242976268/1376139791292305418/Arrow.gif?ex=68343d8d&is=6832ec0d&hm=3a45f09ba126c5800b6a8b71452afaf5abaf5c16e616e9545846d07becfe48e3&" width="30"/> I'm a `Beginner`
+ <img src="https://cdn.discordapp.com/attachments/1086169289242976268/1376139791292305418/Arrow.gif?ex=68343d8d&is=6832ec0d&hm=3a45f09ba126c5800b6a8b71452afaf5abaf5c16e616e9545846d07becfe48e3&" width="30"/> First time learn on `2024`
+ <img src="https://cdn.discordapp.com/attachments/1086169289242976268/1376139791292305418/Arrow.gif?ex=68343d8d&is=6832ec0d&hm=3a45f09ba126c5800b6a8b71452afaf5abaf5c16e616e9545846d07becfe48e3&" width="28"/> Fullstack dev `Yes`
+ <img src="https://cdn.discordapp.com/emojis/1289848030744412211.gif?size=48&name=z_skillissue" width="30"/> `Dont ask me anything`
 
 </pre>
 
+    <td>
+      <img src="https://github.com/yousafee/yousafee/blob/main/GIF_20250525_170041_665.gif?raw=true" width="150" />
     </td>
   </tr>
 </table>
