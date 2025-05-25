@@ -11,7 +11,7 @@
  - <img src="https://cdn.discordapp.com/attachments/1086169289242976268/1376139791292305418/Arrow.gif?ex=68343d8d&is=6832ec0d&hm=3a45f09ba126c5800b6a8b71452afaf5abaf5c16e616e9545846d07becfe48e3&" width="30"/> First time learn on `2024`
  - <img src="https://cdn.discordapp.com/attachments/1086169289242976268/1376139791292305418/Arrow.gif?ex=68343d8d&is=6832ec0d&hm=3a45f09ba126c5800b6a8b71452afaf5abaf5c16e616e9545846d07becfe48e3&" width="30"/> Fullstack dev `Yes`
 
-  𓏵  <img src="https://cdn.discordapp.com/emojis/1289848030744412211.gif?size=48&name=z_skillissue" width="30"/> `Dont ask me anything`  𓏵
+   𓏵  <img src="https://cdn.discordapp.com/emojis/1289848030744412211.gif?size=48&name=z_skillissue" width="30"/> `Dont ask me anything`  𓏵
 
 <hr/>
 <p align="left">
