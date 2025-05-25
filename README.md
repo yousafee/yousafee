@@ -53,7 +53,7 @@
 <hr/>
 </ol>
 
-<img src="https://github.com/Haihaay/Haihaay/blob/main/908262795672436746.gif" width="30"/> いっしょにあそびましょう~ ! !
+<img src="https://cdn.discordapp.com/attachments/1086169289242976268/1376139790696714290/Waaaaa.png?ex=68343d8d&is=6832ec0d&hm=54e147a4b14f0078095fcdb29564c886738c21f7d0a94c78dd5863841f43a016&" width="30"/> いっしょにあそびましょう~ ! !
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hai-hay /Hai-hay /output/pacman-contribution-graph-dark.svg">
