@@ -49,7 +49,7 @@
   </ol>
 </details>
 
-<div align="center"> <P>buy me</P> <a href="http://lynk.id/payme/haihaay"><img width="150" src="https://cdn.discordapp.com/attachments/1186940816430727258/1376871018760503366/Tak_berjudul13_20250527173335.png?ex=6836e68f&is=6835950f&hm=52bf42ec45f23162a3858fdbe79bdb9b8657fba86a26108d83f2408eb6b416bd&"></a></div>
+<div align="center"> <P>Buy Me</P> <a href="http://lynk.id/payme/haihaay"><img width="150" src="https://cdn.discordapp.com/attachments/1186940816430727258/1376871018760503366/Tak_berjudul13_20250527173335.png?ex=6836e68f&is=6835950f&hm=52bf42ec45f23162a3858fdbe79bdb9b8657fba86a26108d83f2408eb6b416bd&"></a></div>
 
 <hr/>
 </ol>
