@@ -49,7 +49,7 @@
   </ol>
 </details>
 
-<div align="center"><a href="http://lynk.id/payme/haihaay"><img src="https://github.com/Haihaay/Haihaay/blob/main/Tak%20berjudul263_20250215110642.png"></a></div>
+<div align="center"><a href="http://lynk.id/payme/haihaay"><img src="https://cdn.discordapp.com/attachments/1186940816430727258/1376867205689376891/Tak_berjudul13_20250527171800.png?ex=6836e302&is=68359182&hm=6526c504f684e7c6775c3aa0b0050c0911f99047c4010b711424a259e8dbac85&"></a></div>
 
 <hr/>
 </ol>
