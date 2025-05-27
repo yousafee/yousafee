@@ -5,7 +5,7 @@
 
 <img align="right" width="120" src="https://cdn.discordapp.com/attachments/1086169289242976268/1376206864920088667/skillIssue_2.gif?ex=68347c05&is=68332a85&hm=65f0a4b35a62c945ffa6071703d86f2e13cf17d2fe1bdaacf8ebf705bedcb15b&">
 
-• <img src="https://cdn.discordapp.com/attachments/1186940816430727258/1376872813893390346/916259878740295710.gif?ex=6836e83b&is=683596bb&hm=805e925599bea2907bc924c5f72e6fd0c5db1c130ace0be2e0488dd9bef9a18c&" width="25"/> I'M A ...
+ <img src="https://cdn.discordapp.com/attachments/1186940816430727258/1376872813893390346/916259878740295710.gif?ex=6836e83b&is=683596bb&hm=805e925599bea2907bc924c5f72e6fd0c5db1c130ace0be2e0488dd9bef9a18c&" width="25"/>  I'M A ...
  - <img src="https://cdn.discordapp.com/attachments/1086169289242976268/1376139791292305418/Arrow.gif?ex=68343d8d&is=6832ec0d&hm=3a45f09ba126c5800b6a8b71452afaf5abaf5c16e616e9545846d07becfe48e3&" width="30"/> UI/UX Designer `yes`
  - <img src="https://cdn.discordapp.com/attachments/1086169289242976268/1376139791292305418/Arrow.gif?ex=68343d8d&is=6832ec0d&hm=3a45f09ba126c5800b6a8b71452afaf5abaf5c16e616e9545846d07becfe48e3&" width="30"/> Fullstack dev `yes`
  - <img src="https://cdn.discordapp.com/attachments/1086169289242976268/1376139791292305418/Arrow.gif?ex=68343d8d&is=6832ec0d&hm=3a45f09ba126c5800b6a8b71452afaf5abaf5c16e616e9545846d07becfe48e3&" width="30"/>  Bug hunter `yes`
