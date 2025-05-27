@@ -5,7 +5,7 @@
 
 <img align="right" width="120" src="https://cdn.discordapp.com/attachments/1086169289242976268/1376206864920088667/skillIssue_2.gif?ex=68347c05&is=68332a85&hm=65f0a4b35a62c945ffa6071703d86f2e13cf17d2fe1bdaacf8ebf705bedcb15b&">
 
-𓏵𓏵𓏵 IM A ...  𓏵𓏵𓏵
+𓏵𓏵𓏵 I'M A ...  𓏵𓏵𓏵
  - <img src="https://cdn.discordapp.com/attachments/1086169289242976268/1376139791292305418/Arrow.gif?ex=68343d8d&is=6832ec0d&hm=3a45f09ba126c5800b6a8b71452afaf5abaf5c16e616e9545846d07becfe48e3&" width="30"/> UI/UX Designer `yes`
  - <img src="https://cdn.discordapp.com/attachments/1086169289242976268/1376139791292305418/Arrow.gif?ex=68343d8d&is=6832ec0d&hm=3a45f09ba126c5800b6a8b71452afaf5abaf5c16e616e9545846d07becfe48e3&" width="30"/> Fullstack dev `yes`
  - <img src="https://cdn.discordapp.com/attachments/1086169289242976268/1376139791292305418/Arrow.gif?ex=68343d8d&is=6832ec0d&hm=3a45f09ba126c5800b6a8b71452afaf5abaf5c16e616e9545846d07becfe48e3&" width="30"/>  Bug hunter `yes`
