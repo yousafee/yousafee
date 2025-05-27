@@ -10,7 +10,6 @@
  - <img src="https://cdn.discordapp.com/attachments/1086169289242976268/1376139791292305418/Arrow.gif?ex=68343d8d&is=6832ec0d&hm=3a45f09ba126c5800b6a8b71452afaf5abaf5c16e616e9545846d07becfe48e3&" width="30"/> First time learn on `2024`
  - <img src="https://cdn.discordapp.com/attachments/1086169289242976268/1376139791292305418/Arrow.gif?ex=68343d8d&is=6832ec0d&hm=3a45f09ba126c5800b6a8b71452afaf5abaf5c16e616e9545846d07becfe48e3&" width="30"/> Fullstack dev `Yes`
 
-𓏵 ✩₊˚.⋆₊✧⋆✩₊˚.⋆☾⋆⁺₊✧⋆⁺₊✩₊˚.⋆⁺₊✧ 𓏵
 
 <hr/>
 <p align="left">
@@ -55,7 +54,7 @@
 <hr/>
 </ol>
 
-<img src="https://cdn.discordapp.com/attachments/1086169289242976268/1376139790696714290/Waaaaa.png?ex=68343d8d&is=6832ec0d&hm=54e147a4b14f0078095fcdb29564c886738c21f7d0a94c78dd5863841f43a016&" width="30"/> いっしょにあそびましょう~ ! !
+<img src="https://cdn.discordapp.com/attachments/1086169289242976268/1376139790696714290/Waaaaa.png?ex=68343d8d&is=6832ec0d&hm=54e147a4b14f0078095fcdb29564c886738c21f7d0a94c78dd5863841f43a016&" width="30"/> my statistics ;p
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hai-hay /Hai-hay /output/pacman-contribution-graph-dark.svg">
