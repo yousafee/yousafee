@@ -49,12 +49,12 @@
   </ol>
 </details>
 
-<div align="center"> <P>buy me</P> <a href="http://lynk.id/payme/haihaay"><img width="150" src="https://cdn.discordapp.com/attachments/1186940816430727258/1376867205689376891/Tak_berjudul13_20250527171800.png?ex=6836e302&is=68359182&hm=6526c504f684e7c6775c3aa0b0050c0911f99047c4010b711424a259e8dbac85&"></a></div>
+<div align="center"> <P>buy me</P> <a href="http://lynk.id/payme/haihaay"><img width="150" src="https://cdn.discordapp.com/attachments/1186940816430727258/1376871018760503366/Tak_berjudul13_20250527173335.png?ex=6836e68f&is=6835950f&hm=52bf42ec45f23162a3858fdbe79bdb9b8657fba86a26108d83f2408eb6b416bd&"></a></div>
 
 <hr/>
 </ol>
 
-<img src="https://cdn.discordapp.com/attachments/1086169289242976268/1376139790696714290/Waaaaa.png?ex=68343d8d&is=6832ec0d&hm=54e147a4b14f0078095fcdb29564c886738c21f7d0a94c78dd5863841f43a016&" width="30"/> my statistics ;p
+<img src="https://cdn.discordapp.com/attachments/1086169289242976268/1376139790696714290/Waaaaa.png?ex=68343d8d&is=6832ec0d&hm=54e147a4b14f0078095fcdb29564c886738c21f7d0a94c78dd5863841f43a016&" width="30"/> My statistics ;p
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hai-hay /Hai-hay /output/pacman-contribution-graph-dark.svg">
