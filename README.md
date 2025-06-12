@@ -28,7 +28,7 @@
 <h3 align="center">•『𓏵』• My Goals •『𓏵』•</h3>
 
 <div align="center"><a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,flutter, firebase,cpp,unity,unreal"/>
+    <img src="https://skillicons.dev/icons?i=flutter, firebase,cpp,unity,unreal"/>
   </a></div>
 
 
