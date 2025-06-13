@@ -6,9 +6,9 @@
 <img align="right" width="120" src="https://cdn.discordapp.com/attachments/1086169289242976268/1376206864920088667/skillIssue_2.gif?ex=68347c05&is=68332a85&hm=65f0a4b35a62c945ffa6071703d86f2e13cf17d2fe1bdaacf8ebf705bedcb15b&">
 
  <img src="https://github.com/yousafee/yousafee/blob/main/petikKanan.gif" width="20"/>  I'M A ...  <img src="https://github.com/yousafee/yousafee/blob/main/petikKiri.gif" width="20"/>
- - <img src="https://cdn.discordapp.com/attachments/1086169289242976268/1376139791292305418/Arrow.gif?ex=68343d8d&is=6832ec0d&hm=3a45f09ba126c5800b6a8b71452afaf5abaf5c16e616e9545846d07becfe48e3&" width="30"/> `just`
- - <img src="https://cdn.discordapp.com/attachments/1086169289242976268/1376139791292305418/Arrow.gif?ex=68343d8d&is=6832ec0d&hm=3a45f09ba126c5800b6a8b71452afaf5abaf5c16e616e9545846d07becfe48e3&" width="30"/> `normal`
- - <img src="https://cdn.discordapp.com/attachments/1086169289242976268/1376139791292305418/Arrow.gif?ex=68343d8d&is=6832ec0d&hm=3a45f09ba126c5800b6a8b71452afaf5abaf5c16e616e9545846d07becfe48e3&" width="30"/> `pepo`
+ - <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> `just`
+ - <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> `normal`
+ - <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> `pepo`
 
 
 <hr/>
