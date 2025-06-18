@@ -1,6 +1,6 @@
 ![Banner](https://github.com/yousafee/yousafee/blob/main/gameStart.gif) 
 
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fredoka&size=30&duration=3000&pause=300&center=true&width=435&lines=Jangan+lupa+.+.+.;Ngopi+dulu+bang+!+!;(%C2%B4%E2%80%A2+%CF%89+%E2%80%A2%60)%EF%BE%89" alt="Typing SVG" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Jersey+10&size=30&letterSpacing=3.5px&duration=3000&pause=100&color=57A17E&width=435&lines=Game;Start...!" alt="Typing SVG" /></h1>
 
 
 <img align="right" width="120" src="https://github.com/yousafee/yousafee/blob/main/skillIssue.gif">
