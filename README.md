@@ -34,21 +34,6 @@
 
 <hr/>
 
-<details>
-  <summary>Find me on</summary>
-  <ol>
-
-- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/1102899938263826482)
-
-- [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Haihay_guys)
-
-- ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)
-
-- ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)
-
-  </ol>
-</details>
-
 <div align="center"> <P>Buy Me</P> <a href="http://lynk.id/payme/haihaay"><img width="150" src="https://github.com/yousafee/yousafee/blob/main/5090.png"></a></div>
 
 <hr/>
