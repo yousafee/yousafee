@@ -6,9 +6,9 @@
 <img align="right" width="120" src="https://github.com/yousafee/yousafee/blob/main/skillIssue.gif">
 
  <img src="https://github.com/yousafee/yousafee/blob/main/petikKanan.gif" width="20"/>  I'M A ...  <img src="https://github.com/yousafee/yousafee/blob/main/petikKiri.gif" width="20"/>
- - <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> `just`
- - <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> `normal`
- - <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> `pepo`
+ - <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> `      `
+ - <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> `     `
+ - <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> `     `
 
 
 <hr/>
