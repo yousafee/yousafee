@@ -6,9 +6,10 @@
 <img align="right" width="120" src="https://github.com/yousafee/yousafee/blob/main/skillIssue.gif">
 
  •  I'M A ...  
- - <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> `      `
- - <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> `     `
- - <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> `     `
+ - <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> ` Designer   `
+ - <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> `  Fullstack Web Developer  `
+ - <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> `  Cyber Security Specialist  `
+- <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> ` Game Developer `
 
 
 <hr/>
