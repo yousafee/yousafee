@@ -25,13 +25,6 @@
 </div><div align="center"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"><img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"></div>
 </div>
 
-<h3 align="center">• My Goals •</h3>
-
-<div align="center"><a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,flutter,firebase,cpp,unity,unreal"/>
-  </a></div>
-
-
 <hr/>
 
 <div align="center"> <P>Buy Me</P> <a href="http://lynk.id/payme/haihaay"><img width="150" src="https://github.com/yousafee/yousafee/blob/main/5090.png"></a></div>
