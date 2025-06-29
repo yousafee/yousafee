@@ -1,6 +1,6 @@
 ![Banner](https://github.com/yousafee/yousafee/blob/main/banner.gif) 
 
-<h1 align="left" width="30">I'm a<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=30&duration=3000&pause=500&color=F7F7F7&width=435&lines=Designer+;Fullstack+Web+Developer+;Game+Developer+;Cyber+Security+Specialist+" alt="Typing SVG" /></a></h1>
+<h1 align="space-between" width="30">I'm a<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=30&duration=3000&pause=500&color=F7F7F7&width=435&lines=Designer+;Fullstack+Web+Developer+;Game+Developer+;Cyber+Security+Specialist+" alt="Typing SVG" /></a></h1>
 
 
 <img align="right" width="120" src="https://github.com/yousafee/yousafee/blob/main/skillIssue.gif">
