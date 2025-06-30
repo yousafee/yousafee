@@ -3,10 +3,10 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=30&duration=3000&pause=500&color=F7F7F7&center=true&random=true&width=435&lines=UI%2FUX+Designer+;Frontend+Web+Developer+;Game+Developer+;Backend+Web+Developer+;Bug+Hunter;Penetration+Tester;Dude" alt="Typing SVG" /></a></h1>
 
  •  I'M A ...  
- - <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> ` Designer   `
- - <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> `  Fullstack Web Developer  `
+ - <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> ` Designer [for ui/ux and ibis paint] `
+ - <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> `  Fullstack Web Developer  [specially with mern stack]`
  - <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> `  Cyber Security Specialist  `
-- <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> ` Game Developer `
+- <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> ` Game Developer [with ue5]`
 
 
 <hr/>
