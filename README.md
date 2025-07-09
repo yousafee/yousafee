@@ -5,9 +5,9 @@
  •  I'M A ...  
  - <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> `Web Designer [UI/UX] `
  - <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> `  Fullstack Web Developer  [Specially With MERN Stack]`
- - <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> `  Cyber Security Specialist [Pentester & Bug Hunter `
+ - <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> `  Cyber Security Specialist [Pentester & Bug Hunter] `
 - <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> ` Game Developer [with ue5]`
-
+- <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> ` Digital Illustrator [Ibis Paint X]`
 
 <hr/>
 <p align="left">
