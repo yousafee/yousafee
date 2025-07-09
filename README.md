@@ -1,6 +1,6 @@
 ![Banner](https://github.com/yousafee/yousafee/blob/main/banner.gif) 
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=30&duration=3000&pause=500&color=F7F7F7&center=true&random=true&width=435&lines=.....+;.....+;.....+;.....+;.....+;.....+;.....+;turu" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=30&duration=8000&pause=500&color=F7F7F7&center=true&random=true&width=435&lines=.....+;.....+;.....+;.....+;.....+;.....+;.....+;turu" alt="Typing SVG" /></a></h1>
 
  •  I'M A ...  
  - <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> `Web Designer [UI/UX] `
