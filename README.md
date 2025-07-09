@@ -25,7 +25,7 @@
 
 <hr/>
 
-<div align="center"> <P>Buy Me</P> <a href="#http://lynk.id/payme/haihaay"><img width="150" src="https://github.com/yousafee/yousafee/blob/main/5090.png"></a></div>
+<div align="center"> <P>Buy Me</P> <a href="https://saweria.co/YouSafe"><img width="150" src="https://github.com/yousafee/yousafee/blob/main/5090.png"></a></div>
 
 <hr/>
 </ol>
