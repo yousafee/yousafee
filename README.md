@@ -1,6 +1,6 @@
 ![Banner](https://github.com/yousafee/yousafee/blob/main/banner.gif) 
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=8000&pause=300&center=true&vCenter=true&random=true&width=435&lines=%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;turu+%E1%B6%BB+%F0%9D%97%93+%F0%90%B0%81" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=8000&pause=300&color=9C9C9C&center=true&vCenter=true&random=true&width=435&lines=%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;turu+%E1%B6%BB+%F0%9D%97%93+%F0%90%B0%81" alt="Typing SVG" /></a></h1>
 
  •  I'M A ...  
  - <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> `Web Designer [UI/UX] `
@@ -30,7 +30,7 @@
 <hr/>
 </ol>
 
-<img src="https://github.com/yousafee/yousafee/blob/main/Waaaaa.png" width="30"/> My statistics ;p
+<img src="https://github.com/yousafee/yousafee/blob/main/Tak%20berjudul27_20250710071202.png" width="30"/> Dunno what is this below ;p
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hai-hay /Hai-hay /output/pacman-contribution-graph-dark.svg">
