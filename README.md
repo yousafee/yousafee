@@ -25,9 +25,6 @@
 
 <hr/>
 
-<div align="center"> <P>Buy Me</P> <a href="https://saweria.co/YouSafe"><img width="150" src="https://github.com/yousafee/yousafee/blob/main/5090.png"></a></div>
-
-<hr/>
 </ol>
 
 <img src="https://github.com/yousafee/yousafee/blob/main/Tak%20berjudul27_20250710071741.png" width="35"/> idc what happening below ;p
