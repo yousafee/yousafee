@@ -3,11 +3,9 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=8000&pause=300&color=9C9C9C&center=true&vCenter=true&random=true&width=435&lines=%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;turu+%E1%B6%BB+%F0%9D%97%93+%F0%90%B0%81" alt="Typing SVG" /></a></h1>
 
  •  I'M A ...  
- - <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> `Web Designer [UI/UX] `
- - <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> `  Fullstack Web Developer  [Specially With MERN Stack]`
+ - <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> `  Fullstack Web Developer`
  - <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> `  Cyber Security Specialist [Pentester & Bug Hunter] `
-- <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> ` Game Developer [with ue5]`
-- <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> ` Digital Illustrator [Ibis Paint X]`
+- <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> ` Game Developer [Unity6 & UE5]`
 
 <hr/>
 <p align="left">
