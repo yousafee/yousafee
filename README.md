@@ -21,7 +21,7 @@
 
 </ol>
 
-<img src="https://github.com/yousafee/yousafee/blob/main/Tak%20berjudul27_20250710071741.png" width="35"/> idc what happening below ;p
+idc what happening below ;p
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hai-hay /Hai-hay /output/pacman-contribution-graph-dark.svg">
