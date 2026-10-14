@@ -1,4 +1,4 @@
-![Banner](https://github.com/yousafee/yousafee/blob/main/banner.gif) 
+![Banner](https://github.com/Haihaay/Haihaay/blob/main/GIF_20250502_072438_650%20(1).gif) 
 
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=8000&pause=300&color=9C9C9C&center=true&vCenter=true&random=true&width=435&lines=%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;turu+%E1%B6%BB+%F0%9D%97%93+%F0%90%B0%81" alt="Typing SVG" /></a></h1>
 
