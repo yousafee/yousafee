@@ -4,8 +4,8 @@
 
  •  I'M A ...  
  - <img src="https://github.com/el-ayyubi/el-ayyubi/blob/main/Arrow.gif" width="30"/> `Not Gay`
- - <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> `Not Goy`
-- <img src="https://github.com/yousafee/yousafee/blob/main/Arrow.gif" width="30"/> `Just Guy`
+ - <img src="https://github.com/el-ayyubi/el-ayyubi/blob/main/Arrow.gif" width="30"/> `Not Goy`
+- <img src="https://github.com/el-ayyubi/el-ayyubi/blob/main/Arrow.gif" width="30"/> `Just Guy`
 
 <hr/>
 <p align="left">
