@@ -1,6 +1,6 @@
 ![Banner](https://github.com/Haihaay/Haihaay/blob/main/GIF_20250502_072438_650%20(1).gif) 
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=8000&pause=300&color=9C9C9C&center=true&vCenter=true&random=true&width=435&lines=%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;ctrl%2Bc+ctrl%2Bv" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=5000&pause=300&color=9C9C9C&center=true&vCenter=true&random=true&width=435&lines=%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;ctrl%2Bc+ctrl%2Bv" alt="Typing SVG" /></a></h1>
 
  •  I'M A ...  
  - <img src="https://github.com/el-ayyubi/el-ayyubi/blob/main/Arrow.gif" width="30"/> `Not Gay`
